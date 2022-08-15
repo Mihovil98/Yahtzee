@@ -1,2 +1,2 @@
-# RMA_LV1
-Simplified Yahtzee
+# Yahtzee
+Simplified Yahtzee using object-oriented programming in Kotlin
